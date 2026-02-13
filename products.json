@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "20' Standard Container",
+    "price": 2850,
+    "image": "https://images.unsplash.com/photo-1580674684081-7617fbf3d745?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "description": "Wind and watertight, suitable for storage. Perfect for job sites or personal storage.",
+    "type": "Standard",
+    "size": "20",
+    "doorConfig": "Standard Doors"
+  },
+  {
+    "id": 2,
+    "name": "40' High Cube Container",
+    "price": 4200,
+    "image": "https://images.unsplash.com/photo-1494412574643-35d324688133?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "description": "Extra height for more storage capacity. Ideal for stacking large items.",
+    "type": "High Cube",
+    "size": "40",
+    "doorConfig": "Standard Doors"
+  },
+  {
+    "id": 3,
+    "name": "20' High Cube Double Door",
+    "price": 3500,
+    "image": "https://images.unsplash.com/photo-1587293852726-70cdb56c2866?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "description": "Doors on both ends for easy access. Great for organizing inventory.",
+    "type": "High Cube",
+    "size": "20",
+    "doorConfig": "Double Doors"
+  },
+  {
+    "id": 4,
+    "name": "40' Standard Container",
+    "price": 3800,
+    "image": "https://images.unsplash.com/photo-1580674285054-bed31e145f59?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "description": "Standard 40ft shipping container. The industry standard for large cargo.",
+    "type": "Standard",
+    "size": "40",
+    "doorConfig": "Standard Doors"
+  },
+  {
+    "id": 5,
+    "name": "10' Standard Container",
+    "price": 2100,
+    "image": "https://images.unsplash.com/photo-1580674684081-7617fbf3d745?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "description": "Compact storage solution. Fits in tight spaces like driveways.",
+    "type": "Standard",
+    "size": "10",
+    "doorConfig": "Standard Doors"
+  },
+  {
+    "id": 6,
+    "name": "20' Open Side Container",
+    "price": 4500,
+    "image": "https://images.unsplash.com/photo-1494412574643-35d324688133?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "description": "Full side access. Makes loading and unloading palletized goods easy.",
+    "type": "Standard",
+    "size": "20",
+    "doorConfig": "Open Side"
+  },
+  {
+    "id": 7,
+    "name": "45' High Cube Container",
+    "price": 5200,
+    "image": "https://images.unsplash.com/photo-1587293852726-70cdb56c2866?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "description": "Maximum storage space. For when you need the absolute most room.",
+    "type": "High Cube",
+    "size": "45",
+    "doorConfig": "Standard Doors"
+  },
+  {
+    "id": 8,
+    "name": "20' Reefer Container",
+    "price": 8500,
+    "image": "https://images.unsplash.com/photo-1580674285054-bed31e145f59?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+    "description": "Refrigerated container. Temperature controlled for perishable goods.",
+    "type": "Reefer",
+    "size": "20",
+    "doorConfig": "Standard Doors"
+  }
+]
